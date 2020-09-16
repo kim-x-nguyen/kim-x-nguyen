@@ -9,13 +9,15 @@
 - ⚡ Fun fact: I love to play bass guitar and games.
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.nguyenxuongkim2103.vercel.app/api/spotify)](https://open.spotify.com/user/21c7gjbszt2bo3mttlyz4cydy?si=bnRoBTibTb-MGbF7WMVLJQ)
+<a href="https://open.spotify.com/user/21c7gjbszt2bo3mttlyz4cydy?si=bnRoBTibTb-MGbF7WMVLJQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="nguyenxuongkim2103" height="30" width="30" /></a>(https://novatorem.nguyenxuongkim2103.vercel.app/api/spotify)](https://open.spotify.com/user/21c7gjbszt2bo3mttlyz4cydy?si=bnRoBTibTb-MGbF7WMVLJQ)
 
 ### Connect with me:
 <a href="https://dev.to/nguyenxuongkim2103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nguyenxuongkim2103" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kim-nguyen-xuong" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
 <a href="https://fb.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyenxuongkim" height="30" width="30" /></a>
+<a href="https://mailhide.io/e/9iho4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" /></a>
 <br />
+
 
 ### Languages and Tools:
 
