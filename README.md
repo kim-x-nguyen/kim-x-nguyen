@@ -8,9 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play bass guitar and games.
 
-### Spotify Playing 🎧
-[<img src="https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO?highlight=spotify:track:1TPRQvysDFeNWTd65KPnxS#_=_" alt="Spotify Playing" width="350" />](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO?highlight=spotify:track:1TPRQvysDFeNWTd65KPnxS#_=_)
-
 ### Connect with me:
 <a href="https://dev.to/nguyenxuongkim2103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nguyenxuongkim2103" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kim-nguyen-xuong" height="30" width="30" /></a>
