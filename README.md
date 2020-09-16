@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play bass guitar and games.
 
-### Spotify Playing 🎧
-&nbsp; <br> [![Spotify](https://novatorem-bay-three.vercel.app/api/spotify)](https://open.spotify.com/user/21c7gjbszt2bo3mttlyz4cydy?si=bnRoBTibTb-MGbF7WMVLJQ)
 
 ### Connect with me:
 <a href="https://dev.to/nguyenxuongkim2103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nguyenxuongkim2103" height="30" width="30" /></a>
