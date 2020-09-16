@@ -4,7 +4,7 @@
 ## I'm a Fullstack Web Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to new ideas for my next projects
+- 👯 I’m looking for new ideas to kick-off my next projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play bass guitar and games.
 
