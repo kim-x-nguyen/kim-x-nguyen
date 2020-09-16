@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play bass guitar and games.
 
 ### Spotify Playing 🎧
-[<img src="https://github-readme-spotify-now-playing.nguyenxuongkim2103.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://github-readme-spotify-now-playing.nguyenxuongkim2103.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Connect with me:
 <a href="https://dev.to/nguyenxuongkim2103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nguyenxuongkim2103" height="30" width="30" /></a>
