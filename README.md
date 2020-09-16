@@ -20,12 +20,3 @@
 
 <br />
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenxuongkim2103&layout=compact" alt="nguyenxuongkim2103" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenxuongkim2103&show_icons=true" alt="nguyenxuongkim2103" /></p>
-
-<p align="center">
-<a href="https://dev.to/nguyenxuongkim2103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nguyenxuongkim2103" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kim-nguyen-xuong" height="30" width="30" /></a>
-<a href="https://fb.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyenxuongkim" height="30" width="30" /></a>
-</p>
