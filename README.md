@@ -1,7 +1,7 @@
 ### Hi there, I'm Kim 👋
 
 
-## I'm a Fullstack Web Developer!
+## I'm a Web Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new ideas to kick-off my next projects
