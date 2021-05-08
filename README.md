@@ -3,10 +3,7 @@
 
 ## I'm a Web Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for new ideas to kick-off my next projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play bass guitar and games.
+- 🌱I love video games and music.
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-one.vercel.app/api/spotify)](https://open.spotify.com/user/21c7gjbszt2bo3mttlyz4cydy?si=Uj-851xKTQ6R9_YscNuduA)
