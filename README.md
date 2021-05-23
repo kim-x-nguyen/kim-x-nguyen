@@ -10,7 +10,7 @@
 
 
 ### Connect with me:
-<a href="https://dev.to/nguyenxuongkim2103" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png" alt="nguyenxuongkim2103" height="30" width="30" /></a>      <a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" height="30" width="30" /></a>      <a href="https://fb.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="nguyenxuongkim" height="30" width="30" /></a>      <a href="https://mailhide.io/e/9iho4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="30" width="30" /></a>
+<a href="https://dev.to/nguyenxuongkim2103" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="nguyenxuongkim2103" height="30" width="30" /></a>      <a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" height="30" width="30" /></a>      <a href="https://fb.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="nguyenxuongkim" height="30" width="30" /></a>      <a href="https://mailhide.io/e/9iho4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="30" width="30" /></a>
 <br />
 
 ### Languages and Tools 👨‍💻
