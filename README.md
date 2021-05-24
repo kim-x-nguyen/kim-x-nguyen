@@ -35,6 +35,7 @@
 [![NodeJS](https://img.shields.io/badge/-NodeJS-grey?style=flat&logo=node-dot-js&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
 [![Express](https://img.shields.io/badge/-expressJS-blue?style=flat&logo=express&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
 [![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
+[![RestAPI](https://img.shields.io/badge/-RestAPI-blue?style=flat&&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat&logo=graphql&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
 
 
