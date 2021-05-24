@@ -1,7 +1,7 @@
-### Hi there, I'm Kim 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/ykNYYOLq8quKSkFTJA/giphy.gif" width=800 height=400 title="GIF Banner">
+  <img src="https://media.giphy.com/media/ykNYYOLq8quKSkFTJA/giphy.gif" width=900 height=450 title="GIF Banner">
 </p>
+### Hi there, I'm Kim 👋
 
 ## I'm a Web Developer!
 
