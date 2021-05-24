@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ykNYYOLq8quKSkFTJA/giphy.gif" width=900 height=450 title="GIF Banner">
 </p>
+
+
 ### Hi there, I'm Kim 👋
 
 ## I'm a Web Developer!
