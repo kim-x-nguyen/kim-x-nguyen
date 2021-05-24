@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/DEHO2xx3zza6SVR488/giphy.gif" width=800 height=auto title="GIF Banner">
+  <img src="https://www.lsksystemssupportsolution.com/wp-content/uploads/2020/08/main-qimg-ea06c349252459387b5e0c447a8daa78.gif" width=800 height=auto title="GIF Banner">
 </p>
 
 
