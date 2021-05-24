@@ -1,6 +1,5 @@
-### Hi there, I'm Kim 👋
-
 <p align="center">
+  ### Hi there, I'm Kim 👋
   <img src="https://media.giphy.com/media/ykNYYOLq8quKSkFTJA/giphy.gif" width=auto title="GIF Banner">
 </p>
 
