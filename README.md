@@ -1,6 +1,6 @@
-<header align="center">
+<p align="center">
   <img src="https://lh3.googleusercontent.com/JpLGYfX2VCQ16vW_ZuisG005Vgntnv4MzZhPvgJBsG-6hWeBdnAH4J9QrKq9Ez1ID-L4sVMZeeds50cCa_Mh1PpATgl-ARdQ9jqQdT3B-1UJrfpCDoJn_z2uKOT_stzkjlwyJA9lr9eT3uERIVBY-E5PrP8at0o1dFdlrUfV_RwR9IwCH5BgSVt6bT_zXcD8aICgVVVTvxAsUVP_Z894Gtp-UlLZWZHWMxv91HuBZUF6kHRLVBMqIxs5CP3FZOqrbDUU_4wcZbZE8rTs1pA2XueYzaExfYHEZE1_sshqoxtiobiR3IfRDavLqZR53Bi8cm6s6DjtsEbzvakM3RE28OAjOiht1lxHlhWWc2rumE8fOljJn34y-6JQ9lP65OryreWUxWhJwsG20GAXQ4vZy58j38nf3QnJuOLnCgZbp95PIoJvObRWx8bnYbf8n2qawQilf7E9ycP7mbKWGjRfhF0G-VFOTCuI4GfR7NbtnSlT43BKNJIdsNeiYInn6YnMiFmvML5vx2gy21x_t6nOM5R3DQVCLqyQFpboCuD0M6ElMKindwlCWRv3AFYvSUoUTbyZLj8afYoHisGzNWHDcNpeM-_pYiil-nL4WYzvugO5JtYVA4U1CbS1WhxVuZpWIh6KwbEdXkNAQWkxH85J5Dq-yoNc-UNs3b77-e51WyOoIafhox1iSHHye_Qbe72Vt7iGV94_7ALO6B1CkcX6V60=w1400-h700-no?authuser=0" width=auto height=auto title="GIF Banner">
-</header>
+</p>
 
 
 ### Hi there, I'm Kim 👋
