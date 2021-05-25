@@ -26,7 +26,7 @@
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next-dot-js&logoColor=white)](https://nextjs.org/)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-grey?style=flat&logo=node-dot-js)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/-expressJS-blue?style=flat&logo=express)](https://expressjs.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)](https://firebase.google.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-azure?style=flat&logo=firebase)](https://firebase.google.com/)
 [![RestAPI](https://img.shields.io/badge/-RestAPI-blue?style=flat)](https://restfulapi.net/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat&logo=graphql)](https://graphql.org/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/) 
