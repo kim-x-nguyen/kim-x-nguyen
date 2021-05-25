@@ -20,33 +20,34 @@
 ### Languages and Tools 👨‍💻
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3schools.com/css/)
 
 
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![MySQL](https://img.shields.io/badge/-MySQL-salmon?style=flat&logo=mysql&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-SQLite-brown?style=flat&logo=sqlite)](https://www.sqlite.org/index.html)
 
 
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap&color=purple&link=https://https://github.com/nguyenxuongkim2103)](https://github.com/nguyenxuongkim2103)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap&color=purple)](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)](https://redux.js.org/)
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next-dot-js&logoColor=white)](https://nextjs.org/)
 
 
 
-[![NodeJS](https://img.shields.io/badge/-NodeJS-grey?style=flat&logo=node-dot-js&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![Express](https://img.shields.io/badge/-expressJS-blue?style=flat&logo=express&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![RestAPI](https://img.shields.io/badge/-RestAPI-blue?style=flat&&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat&logo=graphql&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-grey?style=flat&logo=node-dot-js)](https://nodejs.org/en/)
+[![Express](https://img.shields.io/badge/-expressJS-blue?style=flat&logo=express)](https://expressjs.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)](https://firebase.google.com/)
+[![RestAPI](https://img.shields.io/badge/-RestAPI-blue?style=flat)](https://restfulapi.net/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat&logo=graphql)](https://graphql.org/)
 
 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https:/https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=Heroku&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![Webpack](https://img.shields.io/badge/-Webpack-181717?style=flat&logo=webpack&color=grey&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
-[![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman&link=https://https://github.com/nguyenxuongkim2103)](https://https://github.com/nguyenxuongkim2103)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=Heroku)](https://www.heroku.com/)
+[![Vercel](https://img.shields.io/badge/-vercel-black?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+[![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm)](https://www.npmjs.com/)
+[![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman)](https://www.postman.com/)
