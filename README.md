@@ -1,7 +1,6 @@
 <header align="center">
-  <img src="https://media0.giphy.com/media/6YRVeSrYvFgmARS0Tn/giphy.gif" width=auto height=auto title="GIF Banner">
+ <img src="https://media1.giphy.com/media/sxlzoZm2fwcrXDGhcY/giphy.gif?cid=790b7611f85d65e1e617e5f45a70b22edfb3e1ab7677f724&rid=giphy.gif&ct=g" width=auto height=auto title="GIF Header">
 </header>
-
 
 ### Hi there, I'm Kim 👋
 
@@ -37,9 +36,6 @@
 [![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman)](https://www.postman.com/)
 
 ### Connect with me:
-<a href="https://twitter.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" alt="nguyenxuongkim2103" height="30" width="30" /></a>      <a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" height="30" width="30" /></a>      <a href="https://fb.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="nguyenxuongkim" height="30" width="30" /></a>      <a href="https://mailhide.io/e/RPKAJ" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="30" width="30" /></a>
-<br />
-
 <footer align="center">
- <img src="https://media1.giphy.com/media/sxlzoZm2fwcrXDGhcY/giphy.gif?cid=790b7611f85d65e1e617e5f45a70b22edfb3e1ab7677f724&rid=giphy.gif&ct=g" width=auto height=auto title="GIF Footer">
+<a href="https://twitter.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" alt="nguyenxuongkim2103" height="30" width="30" /></a>      <a href="https://linkedin.com/in/kim-nguyen-xuong" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" height="30" width="30" /></a>      <a href="https://fb.com/nguyenxuongkim" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="nguyenxuongkim" height="30" width="30" /></a>      <a href="https://mailhide.io/e/RPKAJ" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="30" width="30" /></a>
 </footer>
