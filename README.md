@@ -1,13 +1,13 @@
-<p align="center">
+<header align="center">
   <img src="https://lh3.googleusercontent.com/JpLGYfX2VCQ16vW_ZuisG005Vgntnv4MzZhPvgJBsG-6hWeBdnAH4J9QrKq9Ez1ID-L4sVMZeeds50cCa_Mh1PpATgl-ARdQ9jqQdT3B-1UJrfpCDoJn_z2uKOT_stzkjlwyJA9lr9eT3uERIVBY-E5PrP8at0o1dFdlrUfV_RwR9IwCH5BgSVt6bT_zXcD8aICgVVVTvxAsUVP_Z894Gtp-UlLZWZHWMxv91HuBZUF6kHRLVBMqIxs5CP3FZOqrbDUU_4wcZbZE8rTs1pA2XueYzaExfYHEZE1_sshqoxtiobiR3IfRDavLqZR53Bi8cm6s6DjtsEbzvakM3RE28OAjOiht1lxHlhWWc2rumE8fOljJn34y-6JQ9lP65OryreWUxWhJwsG20GAXQ4vZy58j38nf3QnJuOLnCgZbp95PIoJvObRWx8bnYbf8n2qawQilf7E9ycP7mbKWGjRfhF0G-VFOTCuI4GfR7NbtnSlT43BKNJIdsNeiYInn6YnMiFmvML5vx2gy21x_t6nOM5R3DQVCLqyQFpboCuD0M6ElMKindwlCWRv3AFYvSUoUTbyZLj8afYoHisGzNWHDcNpeM-_pYiil-nL4WYzvugO5JtYVA4U1CbS1WhxVuZpWIh6KwbEdXkNAQWkxH85J5Dq-yoNc-UNs3b77-e51WyOoIafhox1iSHHye_Qbe72Vt7iGV94_7ALO6B1CkcX6V60=w1400-h700-no?authuser=0" width=auto height=auto title="GIF Banner">
-</p>
+</header>
 
 
 ### Hi there, I'm Kim 👋
 
 ## I'm a Web Developer!
 
-- 🌱I love video games and music.
+- I love video games 🎮 and music 🎸.
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-one.vercel.app/api/spotify)](https://open.spotify.com/user/21c7gjbszt2bo3mttlyz4cydy?si=Uj-851xKTQ6R9_YscNuduA)
@@ -51,3 +51,7 @@
 [![Vercel](https://img.shields.io/badge/-vercel-black?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 [![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm)](https://www.npmjs.com/)
 [![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=Postman)](https://www.postman.com/)
+
+<footer align="center">
+  <img src="https://lh3.googleusercontent.com/48JZduI2wIYxI6mkFXVIHNb5xp457VjN5BrraH_h6RRGMtoQsUYMetgyaTi7PIsIGzCw0qJ8QdOCTd7szLy_ngAPsjeHq3NZeFEyd9VoXXgfTRHKud5y-CngX_dqlBysaObPlaPgcW-u_kZkPMcOJA5j8Cu2GR_rHsHXFFlBzDoKzVU8qkYne_BPbYxYLS_duABIkzCsqn4_i8nTnZqc9pdhjzDImYKmmW3JNeE3tseHASMIG3p2qgSygWqNjkYZi_R_lnmMhrWeHCSimpr0iKemNRb7-zP-hobfvkFU_NJ6g3dXh-0J519wyy3vaKPJ_n6a1KH-YMZ5Fr_Hlj-nwCMEkbPw0-vztMbvFTs1onGB0-d4UqKoTno48b2LoGUhkXxqxgAUMb2PqisP_HRH0E0Up_5UpuD5Oo3gvkVG-SbQGsPK7ADVWOicFP7zer_OnqVJwednNlnKG55XHb5EIA_PMjmBy2v4OrTD37i1TKQsns9eSS5qbzDXdbC1vSVn7q1HJUMk4uCFCAXUaQAvAcQ-w31JE8HV8RQnyl8C7v-ws6S4CUUthEqQ4lkxuJze1SkvMlWFvHj_8mdPOnWBPxxb-k_BXibIb4FqZuOd2W0wHrZv3KfIZP-1YKRdUnWuyWGQriL5Ih_OikL84gg9onFDjH6PLhnNQ4pYESjkKuRuz4wV3DNR9tE_bsIxehrgohwlxU4Uu4CQovGGNBMGXFM=w900-h480-no?authuser=0" width=auto height=auto title="GIF Footer">
+</footer>
