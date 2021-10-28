@@ -27,7 +27,6 @@
 [![Express](https://img.shields.io/badge/-expressJS-blue?style=flat&logo=express)](https://expressjs.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase)](https://firebase.google.com/)
 [![RestAPI](https://img.shields.io/badge/-RestAPI-blue?style=flat)](https://restfulapi.net/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat&logo=graphql)](https://graphql.org/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=Heroku)](https://www.heroku.com/)
