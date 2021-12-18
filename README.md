@@ -1,5 +1,5 @@
 <header align="center">
- <img src="https://giphy.com/embed/q6Q6nM3ena3MTWiBCx" width=auto height=auto title="GIF Header">
+ <img src="https://giphy.com/gifs/q6Q6nM3ena3MTWiBCx?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=" width=auto height=auto title="GIF Header">
 </header>
 
 ### Hi there, I'm Kim 👋
