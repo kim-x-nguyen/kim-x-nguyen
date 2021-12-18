@@ -11,16 +11,17 @@
 
 ### Languages and Tools 👨‍💻
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3schools.com/css/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)](https://www.mongodb.com/)
 </br>
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/-SQLite-brown?style=flat&logo=sqlite)](https://www.sqlite.org/index.html)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat&logo=bootstrap&color=purple)](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)](https://redux.js.org/)
 </br>
+[![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)](https://redux.js.org/)
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next-dot-js&logoColor=white)](https://nextjs.org/)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-grey?style=flat&logo=node-dot-js)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/-expressJS-blue?style=flat&logo=express)](https://expressjs.com/)
