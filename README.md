@@ -1,5 +1,5 @@
 <header align="center">
- <img src="https://media4.giphy.com/media/q6Q6nM3ena3MTWiBCx/giphy.gif?cid=790b761189d73872ad8267a98ba85260c13bad4dd7703fc3&rid=giphy.gif&ct=g" width="40" height="40" />
+ <img src="https://media4.giphy.com/media/q6Q6nM3ena3MTWiBCx/giphy.gif?cid=790b761189d73872ad8267a98ba85260c13bad4dd7703fc3&rid=giphy.gif&ct=g" width="auto" height="auto" />
 </header>
 
 ### Hi there, I'm Kim 👋
