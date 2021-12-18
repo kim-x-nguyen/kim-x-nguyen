@@ -1,5 +1,5 @@
 <header align="center">
- <iframe src="https://giphy.com/embed/q6Q6nM3ena3MTWiBCx" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a  href="https://giphy.com/gifs/q6Q6nM3ena3MTWiBCx">via GIPHY</a></p>
+ <img src="https://media4.giphy.com/media/q6Q6nM3ena3MTWiBCx/giphy.gif?cid=790b761189d73872ad8267a98ba85260c13bad4dd7703fc3&rid=giphy.gif&ct=g" width="40" height="40" />
 </header>
 
 ### Hi there, I'm Kim 👋
