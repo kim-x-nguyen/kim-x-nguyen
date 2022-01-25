@@ -3,7 +3,6 @@
 ## I'm a Web Developer!
 
 - I love video games 🎮 and music 🎸.
-<img src="https://media4.giphy.com/media/q6Q6nM3ena3MTWiBCx/giphy.gif?cid=790b761189d73872ad8267a98ba85260c13bad4dd7703fc3&rid=giphy.gif&ct=g" width="auto" height="auto" />
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-one.vercel.app/api/spotify)](https://open.spotify.com/user/21c7gjbszt2bo3mttlyz4cydy?si=Uj-851xKTQ6R9_YscNuduA)
