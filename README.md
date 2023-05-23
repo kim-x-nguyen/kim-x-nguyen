@@ -1,6 +1,6 @@
 ### Hi there, I'm Kim 👋
 
-## I'm a Web Developer!
+## I'm a Software Developer!
 
 - I love video games 🎮 and music 🎸.
 
